@@ -1,0 +1,12 @@
+name: DevelopingDataProject
+title: DevelopingDataProject
+username:
+account: ajayceindia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3281455
+bundleId: 3890437
+url: https://ajayceindia.shinyapps.io/DevelopingDataProject/
+when: 1606032949.48291
+asMultiple: FALSE
+asStatic: FALSE
